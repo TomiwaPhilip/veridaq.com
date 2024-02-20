@@ -1,0 +1,15 @@
+[submodule "statics"]
+	path = statics
+	url = https://github.com/TomiwaPhilip/veridaq.com-statics
+[submodule "individuals"]
+	path = individuals
+	url = https://github.com/TomiwaPhilip/veridaq.com-individuals
+[submodule "organizations"]
+	path = organizations
+	url = https://github.com/TomiwaPhilip/veridaq.com-organizations
+[submodule "admins"]
+	path = admins
+	url = https://github.com/TomiwaPhilip/veridaq.com-admins
+[submodule "account"]
+	path = account
+	url = https://github.com/TomiwaPhilip/veridaq-accounts
